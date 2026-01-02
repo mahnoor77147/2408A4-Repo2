@@ -10,3 +10,11 @@ p{
     text-align: center;
     border: 2px dotted black;
 }
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: teal;
+    border: 5px dashed black;
+    margin-left: 40%;
+}
